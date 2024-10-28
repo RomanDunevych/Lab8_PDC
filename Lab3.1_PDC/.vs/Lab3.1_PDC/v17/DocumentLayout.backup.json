@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roman\\source\\repos\\Lab3.1_PDC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B64BD374-F6B7-40C7-BAE7-E2DA43FDCCDA}|Lab3.1_PDC\\Lab3.1_PDC.vcxproj|C:\\Users\\Roman\\source\\repos\\Lab3.1_PDC\\Lab3.1_PDC\\Lab3.1_PDC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B64BD374-F6B7-40C7-BAE7-E2DA43FDCCDA}|Lab3.1_PDC\\Lab3.1_PDC.vcxproj|solutionrelative:Lab3.1_PDC\\Lab3.1_PDC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586D054E-1E43-462C-8FA4-CC578EFFBE4F}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\Roman\\source\\repos\\Lab3.1_PDC\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{586D054E-1E43-462C-8FA4-CC578EFFBE4F}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\Roman\\source\\repos\\Lab3.1_PDC\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\Roman\\source\\repos\\Lab3.1_PDC\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-23T13:45:41.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab3.1_PDC.cpp",
+              "DocumentMoniker": "C:\\Users\\Roman\\source\\repos\\Lab3.1_PDC\\Lab3.1_PDC\\Lab3.1_PDC.cpp",
+              "RelativeDocumentMoniker": "Lab3.1_PDC\\Lab3.1_PDC.cpp",
+              "ToolTip": "C:\\Users\\Roman\\source\\repos\\Lab3.1_PDC\\Lab3.1_PDC\\Lab3.1_PDC.cpp",
+              "RelativeToolTip": "Lab3.1_PDC\\Lab3.1_PDC.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-23T13:34:51.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
